@@ -1,0 +1,4 @@
+.DS_Store
+
+# Ignore mkdocs compiled resources
+site/

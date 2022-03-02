@@ -1,0 +1,46 @@
+site_author: ua-refugee-info
+site_description: Інформація для біженців з України | Информация для беженцев из Украины | Information for Ukrainian refugees
+site_name: Допомога для біженців | Помощь беженцам | Help for refugees
+site_url: http://ua-refugee.info/
+docs_dir: docs
+
+theme:
+  icon:
+    repo: fontawesome/brands/github
+    logo: logo
+  lanuguage: ru
+  locale: ru
+  font:
+    text: Roboto
+    code: Roboto Mono
+  name: material
+  features:
+    - content.code.annotate
+    - navigation.expand
+    - navigation.instant
+    - navigation.tabs
+    # - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+markdown_extensions:
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+plugins:
+  - search:
+      indexing: 'full'
+
+extra:
+  analytics:
+    provider: google
+    property: G-EFVK6KT3X9
+nav:
+  - 🇺🇦 Українська: ua.md
+  - 🇷🇺 Русский: ru.md
+  - 🇬🇧 English: en.md
