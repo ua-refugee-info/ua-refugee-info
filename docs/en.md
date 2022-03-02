@@ -9,8 +9,10 @@ hide:
 
 ### 🇲🇩 Moldova
 
+* [:fontawesome-brands-internet-explorer: dopomoga.gov.md](https://dopomoga.gov.md/index.php )
 * [:fontawesome-brands-telegram: Telegram channel](https://t.me/pomojiukr)
 * [:fontawesome-solid-list: Huge list of resources](https://docs.google.com/document/d/16qIpwkVjP2ffZLXksl-2TQjfKFYxUNm6xw6xBDJY6kc/edit)
+* [:fontawesome-brands-internet-explorer: Accommodation search](https://help2022.com/uk)
 
 ### 🇵🇱 Poland
 
